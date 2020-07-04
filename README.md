@@ -3,8 +3,8 @@ List of my ui design
 
 >> Nadha-Laundry
 <img src='https://github.com/haxorsprogramming/Haxors-Contributors/raw/master/haxors_project/nadha_laundry_ss/login.png?raw=true'>
---
-https://github.com/haxorsprogramming/Haxors-Contributors/raw/master/haxors_project/nadha_laundry_ss/beranda.png?raw=true>
+<code>Meaowww</code>
+<img src='https://github.com/haxorsprogramming/Haxors-Contributors/raw/master/haxors_project/nadha_laundry_ss/beranda.png?raw=true'>
 >> IRA Marsjuanda
 
 >> Kede Kita
